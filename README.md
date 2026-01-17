@@ -5,7 +5,7 @@ AWS Regions, Availability Zones, and Edge Locations
 
 High availability and fault-tolerant design principles
 
-Global service distribution and latency optimization
+Global service distribution and latency optimization.
 
 🖥️ AWS Management & Identity
 
@@ -17,7 +17,7 @@ Users, Groups, Roles, and Policies
 
 Principle of Least Privilege
 
-Secure access management for applications and services
+Secure access management for applications and services.
 
 💻 Compute Services
 
@@ -31,7 +31,7 @@ Auto Scaling
 
 EC2 Auto Scaling groups
 
-Load-based and scheduled scaling policies
+Load-based and scheduled scaling policies.
 
 🚀 Application Deployment
 
@@ -39,7 +39,7 @@ Launching and managing the Employee Directory Application
 
 Application hosting on EC2
 
-High availability and scalability considerations
+High availability and scalability considerations.
 
 📦 Container & Serverless Services
 
@@ -51,7 +51,7 @@ Serverless Architecture
 
 AWS Lambda functions
 
-Event-driven computing and cost optimization
+Event-driven computing and cost optimization.
 
 🌐 Networking
 
@@ -73,7 +73,7 @@ Hybrid Connectivity
 
 Site-to-Site VPN
 
-Secure on-premise to AWS integration
+Secure on-premise to AWS integration.
 
 💾 Storage Services
 
@@ -83,7 +83,7 @@ Block storage for EC2
 
 Amazon S3
 
-Object storage, lifecycle policies, versioning
+Object storage, lifecycle policies, versioning.
 
 🗄️ Database Services
 
@@ -95,7 +95,7 @@ Amazon DocumentDB – JSON document-based storage
 
 Amazon Neptune – Graph database service
 
-Amazon QLDB (Quantum Ledger Database) – Immutable ledger-based database
+Amazon QLDB (Quantum Ledger Database) – Immutable ledger-based database.
 
 📊 Monitoring & Logging
 
@@ -103,7 +103,7 @@ Amazon CloudWatch
 
 Metrics, logs, and alarms
 
-Performance monitoring and operational visibility
+Performance monitoring and operational visibility.
 
 🎯 Skills & Outcomes
 
@@ -113,10 +113,4 @@ Gained hands-on experience with compute, storage, networking, databases, and mon
 
 Implemented cloud-native, containerized, and serverless solutions
 
-Applied AWS best practices for security, cost optimization, and performance
-
-🧠 Certification Status
-
-✅ Successfully Completed AWS Cloud Architecture Certification
-
-📌 Next Steps (Optional)
+Applied AWS best practices for security, cost optimization, and performance.
